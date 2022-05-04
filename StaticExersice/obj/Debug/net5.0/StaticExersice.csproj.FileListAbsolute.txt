@@ -1,0 +1,16 @@
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\bin\Debug\net5.0\StaticExersice.exe
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\bin\Debug\net5.0\StaticExersice.deps.json
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\bin\Debug\net5.0\StaticExersice.runtimeconfig.json
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\bin\Debug\net5.0\StaticExersice.runtimeconfig.dev.json
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\bin\Debug\net5.0\StaticExersice.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\bin\Debug\net5.0\StaticExersice.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\obj\Debug\net5.0\StaticExersice.csproj.AssemblyReference.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\obj\Debug\net5.0\StaticExersice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\obj\Debug\net5.0\StaticExersice.AssemblyInfoInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\obj\Debug\net5.0\StaticExersice.AssemblyInfo.cs
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\obj\Debug\net5.0\StaticExersice.csproj.CoreCompileInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\obj\Debug\net5.0\StaticExersice.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\obj\Debug\net5.0\refint\StaticExersice.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\obj\Debug\net5.0\StaticExersice.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\obj\Debug\net5.0\StaticExersice.genruntimeconfig.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\StaticExersice\StaticExersice\obj\Debug\net5.0\ref\StaticExersice.dll

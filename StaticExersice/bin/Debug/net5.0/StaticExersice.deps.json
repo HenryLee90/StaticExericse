@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StaticExersice/1.0.0": {
+        "runtime": {
+          "StaticExersice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticExersice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
